@@ -3,7 +3,7 @@
 
 int main() {
 
-printf("Update4 from JenkinsPushoutput Bye Bye World\n");
+printf("Update6 from JenkinsPushoutput to GithubWorld\n");
 
 return 0;
 }

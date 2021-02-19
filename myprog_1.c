@@ -3,7 +3,7 @@
 
 int main() {
 
-printf("New Day...\n");
+printf("New Day..noon.\n");
 
 return 0;
 }
